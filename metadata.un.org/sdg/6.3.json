@@ -1,0 +1,129 @@
+{
+  "id": "http://metadata.un.org/sdg/6.3",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Bis 2030 die Wasserqualität durch Verringerung der Verschmutzung, Beendigung des Einbringens und Minimierung der Freisetzung gefährlicher Chemikalien und Stoffe, Halbierung des Anteils unbehandelten Abwassers und eine beträchtliche Steigerung der Wiederaufbereitung und gefahrlosen Wiederverwendung weltweit verbessern",
+    "en": "By 2030, improve water quality by reducing pollution, eliminating dumping and minimizing release of hazardous chemicals and materials, halving the proportion of untreated wastewater and substantially increasing recycling and safe reuse globally",
+    "fr": "D’ici à 2030, améliorer la qualité de l’eau en réduisant la pollution, en éliminant l’immersion de déchets et en réduisant au minimum les émissions de produits chimiques et de matières dangereuses, en diminuant de moitié la proportion d’eaux usées non traitées et en augmentant nettement à l’échelle mondiale le recyclage et la réutilisation sans danger de l’eau",
+    "es": "De aquí a 2030, mejorar la calidad del agua reduciendo la contaminación, eliminando el vertimiento y minimizando la emisión de productos químicos y materiales peligrosos, reduciendo a la mitad el porcentaje de aguas residuales sin tratar y aumentando considerablemente el reciclado y la reutilización sin riesgos a nivel mundial"
+  },
+  "note": {
+    "en": "Target 6.3",
+    "fr": "Cible 6.3",
+    "es": "Meta 6.3"
+  },
+  "notation": [
+    "06.03",
+    "6.3"
+  ],
+  "broader": {
+    "id": "http://metadata.un.org/sdg/6",
+    "prefLabel": {
+      "de": "Verfügbarkeit und nachhaltige Bewirtschaftung von Wasser und Sanitärversorgung für alle gewährleisten",
+      "en": "Clean water and sanitation"
+    }
+  },
+  "exactMatch": [
+    {
+      "id": "http://purl.unep.org/sdg/SDGIO_00000120"
+    }
+  ],
+  "inScheme": {
+    "id": "http://metadata.un.org/sdg/",
+    "title": {
+      "de": "Sustainable Development Goals Taxonomie",
+      "en": "Sustainable Development Goals Taxonomy"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    }
+  }
+}

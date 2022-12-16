@@ -1,0 +1,129 @@
+{
+  "id": "http://metadata.un.org/sdg/7.2",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Bis 2030 den Anteil erneuerbarer Energie am globalen Energiemix deutlich erhöhen",
+    "en": "By 2030, increase substantially the share of renewable energy in the global energy mix",
+    "fr": "D’ici à 2030, accroître nettement la part de l’énergie renouvelable dans le bouquet énergétique mondial",
+    "es": "De aquí a 2030, aumentar considerablemente la proporción de energía renovable en el conjunto de fuentes energéticas"
+  },
+  "note": {
+    "en": "Target 7.2",
+    "fr": "Cible 7.2",
+    "es": "Meta 7.2"
+  },
+  "notation": [
+    "7.2",
+    "07.02"
+  ],
+  "broader": {
+    "id": "http://metadata.un.org/sdg/7",
+    "prefLabel": {
+      "de": "Zugang zu bezahlbarer, verlässlicher, nachhaltiger und moderner Energie für alle sichern",
+      "en": "Affordable and clean energy"
+    }
+  },
+  "exactMatch": [
+    {
+      "id": "http://purl.unep.org/sdg/SDGIO_00000127"
+    }
+  ],
+  "inScheme": {
+    "id": "http://metadata.un.org/sdg/",
+    "title": {
+      "de": "Sustainable Development Goals Taxonomie",
+      "en": "Sustainable Development Goals Taxonomy"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    }
+  }
+}

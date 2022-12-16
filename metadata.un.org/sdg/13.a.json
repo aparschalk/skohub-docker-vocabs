@@ -1,0 +1,129 @@
+{
+  "id": "http://metadata.un.org/sdg/13.a",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Die Verpflichtung erfüllen, die von den Vertragsparteien des Rahmenübereinkommens der Vereinten Nationen über Klimaänderungen, die entwickelte Länder sind, übernommen wurde, bis 2020 gemeinsam jährlich 100 Milliarden Dollar aus allen Quellen aufzubringen, um den Bedürfnissen der Entwicklungsländer im Kontext sinnvoller Klimaschutzmaßnahmen und einer transparenten Umsetzung zu entsprechen, und den Grünen Klimafonds vollständig zu operationalisieren, indem er schnellstmöglich mit den erforderlichen Finanzmitteln ausgestattet wird",
+    "en": "Implement the commitment undertaken by developed-country parties to the United Nations Framework Convention on Climate Change to a goal of mobilizing jointly $100 billion annually by 2020 from all sources to address the needs of developing countries in the context of meaningful mitigation actions and transparency on implementation and fully operationalize the Green Climate Fund through its capitalization as soon as possible",
+    "fr": "Mettre en œuvre l’engagement que les pays développés parties à la Convention-cadre des Nations Unies sur les changements climatiques ont pris de mobiliser ensemble auprès de multiples sources 100 milliards de dollars par an d’ici à 2020 pour répondre aux besoins des pays en développement en ce qui concerne les mesures concrètes d’atténuation et la transparence de leur mise en œuvre et rendre le Fonds vert pour le climat pleinement opérationnel en le dotant dans les plus brefs délais des moyens financiers nécessaires",
+    "es": "Cumplir el compromiso de los países desarrollados que son partes en la Convención Marco de las Naciones Unidas sobre el Cambio Climático de lograr para el año 2020 el objetivo de movilizar conjuntamente 100.000 millones de dólares anuales procedentes de todas las fuentes a fin de atender las necesidades de los países en desarrollo respecto de la adopción de medidas concretas de mitigación y la transparencia de su aplicación, y poner en pleno funcionamiento el Fondo Verde para el Clima capitalizándolo lo antes posible"
+  },
+  "note": {
+    "en": "Target 13.a",
+    "fr": "Cible 13.a",
+    "es": "Meta 13.a"
+  },
+  "notation": [
+    "13.a",
+    "13.0a"
+  ],
+  "broader": {
+    "id": "http://metadata.un.org/sdg/13",
+    "prefLabel": {
+      "de": "Umgehend Maßnahmen zur Bekämpfung des Klimawandels und seiner Auswirkungen ergreifen",
+      "en": "Climate action"
+    }
+  },
+  "exactMatch": [
+    {
+      "id": "http://purl.unep.org/sdg/SDGIO_00000185"
+    }
+  ],
+  "inScheme": {
+    "id": "http://metadata.un.org/sdg/",
+    "title": {
+      "de": "Sustainable Development Goals Taxonomie",
+      "en": "Sustainable Development Goals Taxonomy"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    }
+  }
+}

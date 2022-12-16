@@ -1,0 +1,129 @@
+{
+  "id": "http://metadata.un.org/sdg/1.a",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Eine erhebliche Mobilisierung von Ressourcen aus einer Vielzahl von Quellen gewährleisten, einschließlich durch verbesserte Entwicklungszusammenarbeit, um den Entwicklungsländern und insbesondere den am wenigsten entwickelten Ländern ausreichende und berechenbare Mittel für die Umsetzung von Programmen und Politiken zur Beendigung der Armut in all ihren Dimensionen bereitzustellen",
+    "en": "Ensure significant mobilization of resources from a variety of sources, including through enhanced development cooperation, in order to provide adequate and predictable means for developing countries, in particular least developed countries, to implement programmes and policies to end poverty in all its dimensions",
+    "fr": "Garantir une mobilisation importante de ressources provenant de sources multiples, y compris par le renforcement de la coopération pour le développement, afin de doter les pays en développement, en particulier les pays les moins avancés, de moyens adéquats et prévisibles de mettre en œuvre des programmes et politiques visant à mettre fin à la pauvreté sous toutes ses formes",
+    "es": "Garantizar una movilización significativa de recursos procedentes de diversas fuentes, incluso mediante la mejora de la cooperación para el desarrollo, a fin de proporcionar medios suficientes y previsibles a los países en desarrollo, en particular los países menos adelantados, para que implementen programas y políticas encaminados a poner fin a la pobreza en todas sus dimensiones"
+  },
+  "note": {
+    "en": "Target 1.a",
+    "fr": "Cible 1.a",
+    "es": "Meta 1.a"
+  },
+  "notation": [
+    "01.0a",
+    "1.a"
+  ],
+  "broader": {
+    "id": "http://metadata.un.org/sdg/1",
+    "prefLabel": {
+      "de": "Armut in allen ihren Formen und überall beenden",
+      "en": "No poverty"
+    }
+  },
+  "exactMatch": [
+    {
+      "id": "http://purl.unep.org/sdg/SDGIO_00000076"
+    }
+  ],
+  "inScheme": {
+    "id": "http://metadata.un.org/sdg/",
+    "title": {
+      "de": "Sustainable Development Goals Taxonomie",
+      "en": "Sustainable Development Goals Taxonomy"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    }
+  }
+}

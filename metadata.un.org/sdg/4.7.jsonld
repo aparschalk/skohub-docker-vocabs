@@ -1,0 +1,129 @@
+{
+  "id": "http://metadata.un.org/sdg/4.7",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Bis 2030 sicherstellen, dass alle Lernenden die notwendigen Kenntnisse und Qualifikationen zur Förderung nachhaltiger Entwicklung erwerben, unter anderem durch Bildung für nachhaltige Entwicklung und nachhaltige Lebensweisen, Menschenrechte, Geschlechtergleichstellung, eine Kultur des Friedens und der Gewaltlosigkeit, Weltbürgerschaft und die Wertschätzung kultureller Vielfalt und des Beitrags der Kultur zu nachhaltiger Entwicklung",
+    "en": "By 2030, ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture’s contribution to sustainable development",
+    "fr": "D’ici à 2030, faire en sorte que tous les élèves acquièrent les connaissances et compétences nécessaires pour promouvoir le développement durable, notamment par l’éducation en faveur du développement et de modes de vie durables, des droits de l’homme, de l’égalité des sexes, de la promotion d’une culture de paix et de non-violence, de la citoyenneté mondiale et de l’appréciation de la diversité culturelle et de la contribution de la culture au développement durable",
+    "es": "De aquí a 2030, asegurar que todos los alumnos adquieran los conocimientos teóricos y prácticos necesarios para promover el desarrollo sostenible, entre otras cosas mediante la educación para el desarrollo sostenible y los estilos de vida sostenibles, los derechos humanos, la igualdad de género, la promoción de una cultura de paz y no violencia, la ciudadanía mundial y la valoración de la diversidad cultural y la contribución de la cultura al desarrollo sostenible"
+  },
+  "note": {
+    "en": "Target 4.7",
+    "fr": "Cible 4.7",
+    "es": "Meta 4.7"
+  },
+  "notation": [
+    "4.7",
+    "04.07"
+  ],
+  "broader": {
+    "id": "http://metadata.un.org/sdg/4",
+    "prefLabel": {
+      "de": "Inklusive, gleichberechtigte und hochwertige Bildung gewährleisten und Möglichkeiten lebenslangen Lernens für alle fördern",
+      "en": "Quality education"
+    }
+  },
+  "exactMatch": [
+    {
+      "id": "http://purl.unep.org/sdg/SDGIO_00000105"
+    }
+  ],
+  "inScheme": {
+    "id": "http://metadata.un.org/sdg/",
+    "title": {
+      "de": "Sustainable Development Goals Taxonomie",
+      "en": "Sustainable Development Goals Taxonomy"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    }
+  }
+}

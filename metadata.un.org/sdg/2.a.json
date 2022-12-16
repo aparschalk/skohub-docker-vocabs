@@ -1,0 +1,129 @@
+{
+  "id": "http://metadata.un.org/sdg/2.a",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Die Investitionen in die ländliche Infrastruktur, die Agrarforschung und landwirtschaftliche Beratungsdienste, die Technologieentwicklung sowie Genbanken für Pflanzen und Nutztiere erhöhen, unter anderem durch verstärkte internationale Zusammenarbeit, um die landwirtschaftliche Produktionskapazität in den Entwicklungsländern und insbesondere den am wenigsten entwickelten Ländern zu verbessern",
+    "en": "Increase investment, including through enhanced international cooperation, in rural infrastructure, agricultural research and extension services, technology development and plant and livestock gene banks in order to enhance agricultural productive capacity in developing countries, in particular least developed countries",
+    "fr": "Accroître, notamment grâce au renforcement de la coopération internationale, l’investissement dans l’infrastructure rurale, les services de recherche et de vulgarisation agricoles et la mise au point de technologies et de banques de plantes et de gènes d’animaux d’élevage, afin de renforcer les capacités productives agricoles des pays en développement, en particulier des pays les moins avancés",
+    "es": "Aumentar, incluso mediante una mayor cooperación internacional, las inversiones en infraestructura rural, investigación y servicios de extensión agrícola, desarrollo tecnológico y bancos de genes de plantas y ganado a fin de mejorar la capacidad de producción agropecuaria en los países en desarrollo, particularmente en los países menos adelantados"
+  },
+  "note": {
+    "en": "Target 2.a",
+    "fr": "Cible 2.a",
+    "es": "Meta 2.a"
+  },
+  "notation": [
+    "02.0a",
+    "2.a"
+  ],
+  "broader": {
+    "id": "http://metadata.un.org/sdg/2",
+    "prefLabel": {
+      "de": "Den Hunger beenden, Ernährungssicherheit und eine bessere Ernährung erreichen und eine nachhaltige Landwirtschaft fördern",
+      "en": "Zero hunger"
+    }
+  },
+  "exactMatch": [
+    {
+      "id": "http://purl.unep.org/sdg/SDGIO_00000083"
+    }
+  ],
+  "inScheme": {
+    "id": "http://metadata.un.org/sdg/",
+    "title": {
+      "de": "Sustainable Development Goals Taxonomie",
+      "en": "Sustainable Development Goals Taxonomy"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    }
+  }
+}

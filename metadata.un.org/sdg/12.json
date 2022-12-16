@@ -1,0 +1,240 @@
+{
+  "id": "http://metadata.un.org/sdg/12",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Nachhaltige Konsum- und Produktionsmuster sicherstellen",
+    "en": "Responsible consumption and production"
+  },
+  "altLabel": {
+    "de": [
+      "Verantwortungsvolle Konsum- und Produktionsmuster"
+    ],
+    "en": [
+      "Ensure sustainable consumption and production patterns"
+    ],
+    "fr": [
+      "Établir des modes de consommation et de production durables"
+    ],
+    "es": [
+      "Garantizar modalidades de consumo y producción sostenibles"
+    ]
+  },
+  "note": {
+    "en": "Goal 12",
+    "fr": "Objectif 12",
+    "es": "Objetivo 12"
+  },
+  "notation": [
+    "12"
+  ],
+  "narrower": [
+    {
+      "id": "http://metadata.un.org/sdg/12.5",
+      "prefLabel": {
+        "de": "Bis 2030 das Abfallaufkommen durch Vermeidung, Verminderung, Wiederverwertung und Wiederverwendung deutlich verringern",
+        "en": "By 2030, substantially reduce waste generation through prevention, reduction, recycling and reuse",
+        "fr": "D’ici à 2030, réduire nettement la production de déchets par la prévention, la réduction, le recyclage et la réutilisation",
+        "es": "De aquí a 2030, reducir considerablemente la generación de desechos mediante actividades de prevención, reducción, reciclado y reutilización"
+      }
+    },
+    {
+      "id": "http://metadata.un.org/sdg/12.b",
+      "prefLabel": {
+        "de": "Instrumente zur Beobachtung der Auswirkungen eines nachhaltigen Tourismus, der Arbeitsplätze schafft und die lokale Kultur und lokale Produkte fördert, auf die nachhaltige Entwicklung entwickeln und anwenden",
+        "en": "Develop and implement tools to monitor sustainable development impacts for sustainable tourism that creates jobs and promotes local culture and products",
+        "fr": "Mettre au point et utiliser des outils de contrôle de l’impact sur le développement durable d’un tourisme durable créateur d’emplois et valorisant la culture et les produits locaux",
+        "es": "Elaborar y aplicar instrumentos para vigilar los efectos en el desarrollo sostenible, a fin de lograr un turismo sostenible que cree puestos de trabajo y promueva la cultura y los productos locales"
+      }
+    },
+    {
+      "id": "http://metadata.un.org/sdg/12.8",
+      "prefLabel": {
+        "de": "Bis 2030 sicherstellen, dass die Menschen überall über einschlägige Informationen und das Bewusstsein für nachhaltige Entwicklung und eine Lebensweise in Harmonie mit der Natur verfügen",
+        "en": "By 2030, ensure that people everywhere have the relevant information and awareness for sustainable development and lifestyles in harmony with nature",
+        "fr": "D’ici à 2030, faire en sorte que toutes les personnes, partout dans le monde, aient les informations et connaissances nécessaires au développement durable et à un style de vie en harmonie avec la nature",
+        "es": "De aquí a 2030, asegurar que las personas de todo el mundo tengan la información y los conocimientos pertinentes para el desarrollo sostenible y los estilos de vida en armonía con la naturaleza"
+      }
+    },
+    {
+      "id": "http://metadata.un.org/sdg/12.3",
+      "prefLabel": {
+        "de": "Bis 2030 die weltweite Nahrungsmittelverschwendung pro Kopf auf Einzelhandels und Verbraucherebene halbieren und die entlang der Produktions- und Lieferkette entstehenden Nahrungsmittelverluste einschließlich Nachernteverlusten verringern",
+        "en": "By 2030,halve per capita global food waste at the retail and consumer levels and reduce food losses along production and supply chains, including post-harvest losses",
+        "fr": "D’ici à 2030, réduire de moitié à l’échelle mondiale le volume de déchets alimentaires par habitant, au niveau de la distribution comme de la consommation, et diminuer les pertes de produits alimentaires tout au long des chaînes de production et d’approvisionnement, y compris les pertes après récolte",
+        "es": "De aquí a 2030, reducir a la mitad el desperdicio de alimentos per cápita mundial en la venta al por menor y a nivel de los consumidores y reducir las pérdidas de alimentos en las cadenas de producción y suministro, incluidas las pérdidas posteriores a la cosecha"
+      }
+    },
+    {
+      "id": "http://metadata.un.org/sdg/12.6",
+      "prefLabel": {
+        "de": "Die Unternehmen, insbesondere große und transnationale Unternehmen, dazu ermutigen, nachhaltige Verfahren einzuführen und in ihre Berichterstattung Nachhaltigkeitsinformationen aufzunehmen",
+        "en": "Encourage companies, especially large and transnational companies, to adopt sustainable practices and to integrate sustainability information into their reporting cycle",
+        "fr": "Encourager les entreprises, en particulier les grandes entreprises et les sociétés transnationales, à adopter des pratiques viables et à intégrer dans les rapports qu’elles établissent des informations sur la viabilité",
+        "es": "Alentar a las empresas, en especial las grandes empresas y las empresas transnacionales, a que adopten prácticas sostenibles e incorporen información sobre la sostenibilidad en su ciclo de presentación de informes"
+      }
+    },
+    {
+      "id": "http://metadata.un.org/sdg/12.1",
+      "prefLabel": {
+        "de": "Den Zehnjahres-Programmrahmen für nachhaltige Konsum- und Produktionsmuster umsetzen, wobei alle Länder, an der Spitze die entwickelten Länder, Maßnahmen ergreifen, unter Berücksichtigung des Entwicklungsstands und der Kapazitäten der Entwicklungsländer",
+        "en": "Implement the 10‑Year Framework of Programmes on Sustainable Consumption and Production Patterns, all countries taking action, with developed countries taking the lead, taking into account the development and capabilities of developing countries",
+        "fr": "Mettre en œuvre le Cadre décennal de programmation concernant les modes de consommation et de production durables avec la participation de tous les pays, les pays développés montrant l’exemple en la matière, compte tenu du degré de développement et des capacités des pays en développement",
+        "es": "Aplicar el Marco Decenal de Programas sobre Modalidades de Consumo y Producción Sostenibles, con la participación de todos los países y bajo el liderazgo de los países desarrollados, teniendo en cuenta el grado de desarrollo y las capacidades de los países en desarrollo"
+      }
+    },
+    {
+      "id": "http://metadata.un.org/sdg/12.c",
+      "prefLabel": {
+        "de": "Die ineffiziente Subventionierung fossiler Brennstoffe, die zu verschwenderischem Verbrauch verleitet, durch Beseitigung von Marktverzerrungen entsprechend den nationalen Gegebenheiten rationalisieren, unter anderem durch eine Umstrukturierung der Besteuerung und die allmähliche Abschaffung dieser schädlichen Subventionen, um ihren Umweltauswirkungen Rechnung zu tragen, wobei die besonderen Bedürfnisse und Gegebenheiten der Entwicklungsländer in vollem Umfang berücksichtigt und die möglichen nachteiligen Auswirkungen auf ihre Entwicklung in einer die Armen und die betroffenen Gemeinwesen schützenden Weise so gering wie möglich gehalten werden",
+        "en": "Rationalize inefficient fossil-fuel subsidies that encourage wasteful consumption by removing market distortions, in accordance with national circumstances, including by restructuring taxation and phasing out those harmful subsidies, where they exist, to reflect their environmental impacts, taking fully into account the specific needs and conditions of developing countries and minimizing the possible adverse impacts on their development in a manner that protects the poor and the affected communities",
+        "fr": "Rationaliser les subventions aux combustibles fossiles qui sont source de gaspillage, grâce à l’élimination des distorsions du marché, eu égard au contexte national, y compris au moyen de la restructuration de la fiscalité et de la suppression progressive des subventions préjudiciables qui sont en place, en mettant en évidence leur impact sur l’environnement, en tenant pleinement compte des besoins et de la situation propres aux pays en développement et en réduisant au minimum les éventuels effets négatifs sur le développement de ces pays tout en protégeant les pauvres et les populations concernées",
+        "es": "Racionalizar los subsidios ineficientes a los combustibles fósiles que fomentan el consumo antieconómico eliminando las distorsiones del mercado, de acuerdo con las circunstancias nacionales, incluso mediante la reestructuración de los sistemas tributarios y la eliminación gradual de los subsidios perjudiciales, cuando existan, para reflejar su impacto ambiental, teniendo plenamente en cuenta las necesidades y condiciones específicas de los países en desarrollo y minimizando los posibles efectos adversos en su desarrollo, de manera que se proteja a los pobres y a las comunidades afectadas"
+      }
+    },
+    {
+      "id": "http://metadata.un.org/sdg/12.7",
+      "prefLabel": {
+        "de": "In der öffentlichen Beschaffung nachhaltige Verfahren fördern, im Einklang mit den nationalen Politiken und Prioritäten",
+        "en": "Promote public procurement practices that are sustainable, in accordance with national policies and priorities",
+        "fr": "Promouvoir des pratiques durables dans le cadre de la passation des marchés publics, conformément aux politiques et priorités nationales",
+        "es": "Promover prácticas de adquisición pública que sean sostenibles, de conformidad con las políticas y prioridades nacionales"
+      }
+    },
+    {
+      "id": "http://metadata.un.org/sdg/12.a",
+      "prefLabel": {
+        "de": "Die Entwicklungsländer bei der Stärkung ihrer wissenschaftlichen und technologischen Kapazitäten im Hinblick auf den Übergang zu nachhaltigeren Konsum- und Produktionsmustern unterstützen",
+        "en": "Support developing countries to strengthen their scientific and technological capacity to move towards more sustainable patterns of consumption and production",
+        "fr": "Aider les pays en développement à se doter des moyens scientifiques et technologiques qui leur permettent de s’orienter vers des modes de consommation et de production plus durables",
+        "es": "Ayudar a los países en desarrollo a fortalecer su capacidad científica y tecnológica para avanzar hacia modalidades de consumo y producción más sostenibles"
+      }
+    },
+    {
+      "id": "http://metadata.un.org/sdg/12.4",
+      "prefLabel": {
+        "de": "Bis 2020 einen umweltverträglichen Umgang mit Chemikalien und allen Abfällen während ihres gesamten Lebenszyklus in Übereinstimmung mit den vereinbarten internationalen Rahmenregelungen erreichen und ihre Freisetzung in Luft, Wasser und Boden erheblich verringern, um ihre nachteiligen Auswirkungen auf die menschliche Gesundheit und die Umwelt auf ein Mindestmaß zu beschränken",
+        "en": "By 2020, achieve the environmentally sound management of chemicals and all wastes throughout their life cycle, in accordance with agreed international frameworks, and significantly reduce their release to air, water and soil in order to minimize their adverse impacts on human health and the environment",
+        "fr": "D’ici à 2020, parvenir à une gestion écologiquement rationnelle des produits chimiques et de tous les déchets tout au long de leur cycle de vie, conformément aux principes directeurs arrêtés à l’échelle internationale, et réduire nettement leur déversement dans l’air, l’eau et le sol, afin de minimiser leurs effets négatifs sur la santé et l’environnement",
+        "es": "De aquí a 2020, lograr la gestión ecológicamente racional de los productos químicos y de todos los desechos a lo largo de su ciclo de vida, de conformidad con los marcos internacionales convenidos, y reducir significativamente su liberación a la atmósfera, el agua y el suelo a fin de minimizar sus efectos adversos en la salud humana y el medio ambiente"
+      }
+    },
+    {
+      "id": "http://metadata.un.org/sdg/12.2",
+      "prefLabel": {
+        "de": "Bis 2030 die nachhaltige Bewirtschaftung und effiziente Nutzung der natürlichen Ressourcen erreichen",
+        "en": "By 2030, achieve the sustainable management and efficient use of natural resources",
+        "fr": "D’ici à 2030, parvenir à une gestion durable et à une utilisation rationnelle des ressources naturelles",
+        "es": "De aquí a 2030, lograr la gestión sostenible y el uso eficiente de los recursos naturales"
+      }
+    }
+  ],
+  "exactMatch": [
+    {
+      "id": "http://www.wikidata.org/entity/Q53581232"
+    },
+    {
+      "id": "http://purl.unep.org/sdg/SDGIO_00000046"
+    }
+  ],
+  "inScheme": {
+    "id": "http://metadata.un.org/sdg/",
+    "title": {
+      "de": "Sustainable Development Goals Taxonomie",
+      "en": "Sustainable Development Goals Taxonomy"
+    }
+  },
+  "topConceptOf": {
+    "id": "http://metadata.un.org/sdg/"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    }
+  }
+}
