@@ -30,24 +30,24 @@
 
 <7>     a                  skos:Concept , sdgo:Goal ;
         dct:subject        <http://eurovoc.europa.eu/100159> , <http://metadata.un.org/thesaurus/1006320> , <http://eurovoc.europa.eu/4886> ;
-        skos:altLabel      "Ensure access to affordable, reliable, sustainable and modern energy for all"@en , "Bezahlbare und saubere Energie"@de , "Garantizar el acceso a una energía asequible, fiable, sostenible y moderna para todos"@es , "Garantir l’accès de tous à des services énergétiques fiables, durables et modernes, à un coût abordable"@fr ;
+        skos:altLabel      "Ensure access to affordable, reliable, sustainable and modern energy for all"@en , "Garantizar el acceso a una energía asequible, fiable, sostenible y moderna para todos"@es , "Garantir l’accès de tous à des services énergétiques fiables, durables et modernes, à un coût abordable"@fr , "Zugang zu bezahlbarer, verlässlicher, nachhaltiger und moderner Energie für alle sichern"@de ;
         skos:exactMatch    <http://www.wikidata.org/entity/Q53581213> , <http://purl.unep.org/sdg/SDGIO_00000041> ;
         skos:inScheme      <> ;
         skos:narrower      <7.1> , <7.a> , <7.3> , <7.2> , <7.b> ;
         skos:notation      "7" , "07" ;
         skos:note          "Objectif 7"@fr , "Goal 7"@en , "Objetivo 7"@es ;
-        skos:prefLabel     "Zugang zu bezahlbarer, verlässlicher, nachhaltiger und moderner Energie für alle sichern"@de , "Affordable and clean energy"@en ;
+        skos:prefLabel     "Bezahlbare und saubere Energie"@de , "Affordable and clean energy"@en ;
         skos:topConceptOf  <> .
 
 <13>    a                  sdgo:Goal , skos:Concept ;
         dct:subject        <http://metadata.un.org/thesaurus/1001030> , <http://eurovoc.europa.eu/5482> ;
-        skos:altLabel      "Maßnahmen zum Klimaschutz"@de , "Take urgent action to combat climate change and its impacts"@en , "Adoptar medidas urgentes para combatir el cambio climático y sus efectos"@es , "Prendre d’urgence des mesures pour lutter contre les changements climatiques et leurs répercussions"@fr ;
+        skos:altLabel      "Umgehend Maßnahmen zur Bekämpfung des Klimawandels und seiner Auswirkungen ergreifen"@de , "Take urgent action to combat climate change and its impacts"@en , "Adoptar medidas urgentes para combatir el cambio climático y sus efectos"@es , "Prendre d’urgence des mesures pour lutter contre les changements climatiques et leurs répercussions"@fr ;
         skos:exactMatch    <http://purl.unep.org/sdg/SDGIO_00000047> , <http://www.wikidata.org/entity/Q53581236> ;
         skos:inScheme      <> ;
         skos:narrower      <13.3> , <13.a> , <13.b> , <13.1> , <13.2> ;
         skos:notation      "13" ;
         skos:note          "Objetivo 13"@es , "Objectif 13"@fr , "Goal 13"@en ;
-        skos:prefLabel     "Climate action"@en , "Umgehend Maßnahmen zur Bekämpfung des Klimawandels und seiner Auswirkungen ergreifen"@de ;
+        skos:prefLabel     "Maßnahmen zum Klimaschutz"@de , "Climate action"@en ;
         skos:topConceptOf  <> .
 
 <16.2>  a                skos:Concept ;
@@ -178,13 +178,13 @@
 
 <2>     a                  skos:Concept , sdgo:Goal ;
         dct:subject        <http://metadata.un.org/thesaurus/1003004> , <http://eurovoc.europa.eu/c_4523e1dd> , <http://eurovoc.europa.eu/2318> , <http://eurovoc.europa.eu/6308> , <http://metadata.un.org/thesaurus/1006317> , <http://metadata.un.org/thesaurus/1002439> , <http://metadata.un.org/thesaurus/1002440> ;
-        skos:altLabel      "Kein Hunger"@de , "Éliminer la faim, assurer la sécurité alimentaire, améliorer la nutrition et promouvoir l’agriculture durable"@fr , "Poner fin al hambre, lograr la seguridad alimentaria y la mejora de la nutrición y promover la agricultura sostenible"@es , "End hunger, achieve food security and improved nutrition and promote sustainable agriculture"@en ;
+        skos:altLabel      "Éliminer la faim, assurer la sécurité alimentaire, améliorer la nutrition et promouvoir l’agriculture durable"@fr , "Den Hunger beenden, Ernährungssicherheit und eine bessere Ernährung erreichen und eine nachhaltige Landwirtschaft fördern"@de , "Poner fin al hambre, lograr la seguridad alimentaria y la mejora de la nutrición y promover la agricultura sostenible"@es , "End hunger, achieve food security and improved nutrition and promote sustainable agriculture"@en ;
         skos:exactMatch    <http://www.wikidata.org/entity/Q50215926> , <http://purl.unep.org/sdg/SDGIO_00000036> ;
         skos:inScheme      <> ;
         skos:narrower      <2.b> , <2.2> , <2.5> , <2.c> , <2.3> , <2.a> , <2.1> , <2.4> ;
         skos:notation      "2" , "02" ;
         skos:note          "Objetivo 2"@es , "Objectif 2"@fr , "Goal 2"@en ;
-        skos:prefLabel     "Den Hunger beenden, Ernährungssicherheit und eine bessere Ernährung erreichen und eine nachhaltige Landwirtschaft fördern"@de , "Zero hunger"@en ;
+        skos:prefLabel     "Kein Hunger"@de , "Zero hunger"@en ;
         skos:topConceptOf  <> .
 
 <5.a>   a                skos:Concept ;
@@ -246,13 +246,13 @@
 
 <16>    a                  sdgo:Goal , skos:Concept ;
         dct:subject        <http://metadata.un.org/thesaurus/1004777> , <http://eurovoc.europa.eu/516> , <http://metadata.un.org/thesaurus/1003500> , <http://metadata.un.org/thesaurus/1001012> , <http://eurovoc.europa.eu/5585> , <http://metadata.un.org/thesaurus/1005970> , <http://metadata.un.org/thesaurus/1005254> , <http://metadata.un.org/thesaurus/1006319> ;
-        skos:altLabel      "Promover sociedades pacíficas e inclusivas para el desarrollo sostenible, facilitar el acceso a la justicia para todos y construir a todos los niveles instituciones eficaces e inclusivas que rindan cuentas"@es , "Promouvoir l’avènement de sociétés pacifiques et inclusives aux fins du développement durable, assurer l’accès de tous à la justice et mettre en place, à tous les niveaux, des institutions efficaces, responsables et ouvertes à tous"@fr , "Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels"@en , "Frieden, Gerechtigkeit und starke Institutionen"@de ;
+        skos:altLabel      "Promover sociedades pacíficas e inclusivas para el desarrollo sostenible, facilitar el acceso a la justicia para todos y construir a todos los niveles instituciones eficaces e inclusivas que rindan cuentas"@es , "Friedliche und inklusive Gesellschaften für eine nachhaltige Entwicklung fördern, allen Menschen Zugang zur Justiz ermöglichen und leistungsfähige, rechenschaftspflichtige und inklusive Institutionen auf allen Ebenen aufbauen"@de , "Promouvoir l’avènement de sociétés pacifiques et inclusives aux fins du développement durable, assurer l’accès de tous à la justice et mettre en place, à tous les niveaux, des institutions efficaces, responsables et ouvertes à tous"@fr , "Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels"@en ;
         skos:exactMatch    <http://www.wikidata.org/entity/Q53581248> , <http://purl.unep.org/sdg/SDGIO_00000050> ;
         skos:inScheme      <> ;
         skos:narrower      <16.b> , <16.1> , <16.4> , <16.a> , <16.7> , <16.10> , <16.9> , <16.3> , <16.6> , <16.5> , <16.8> , <16.2> ;
         skos:notation      "16" ;
         skos:note          "Goal 16"@en , "Objectif 16"@fr , "Objetivo 16"@es ;
-        skos:prefLabel     "Peace, justice and strong institutions"@en , "Friedliche und inklusive Gesellschaften für eine nachhaltige Entwicklung fördern, allen Menschen Zugang zur Justiz ermöglichen und leistungsfähige, rechenschaftspflichtige und inklusive Institutionen auf allen Ebenen aufbauen"@de ;
+        skos:prefLabel     "Peace, justice and strong institutions"@en , "Frieden, Gerechtigkeit und starke Institutionen"@de ;
         skos:topConceptOf  <> .
 
 <7.a>   a                skos:Concept ;
@@ -398,24 +398,24 @@
 
 <5>     a                  sdgo:Goal , skos:Concept ;
         dct:subject        <http://eurovoc.europa.eu/3913> , <http://metadata.un.org/thesaurus/1002612> , <http://eurovoc.europa.eu/585> , <http://metadata.un.org/thesaurus/1007029> , <http://eurovoc.europa.eu/2265> , <http://eurovoc.europa.eu/81> , <http://metadata.un.org/thesaurus/1002684> ;
-        skos:altLabel      "Geschlechtergleichstellung"@de , "Lograr la igualdad de género y empoderar a todas las mujeres y las niñas"@es , "Parvenir à l’égalité des sexes et autonomiser toutes les femmes et les filles"@fr , "Achieve gender equality and empower all women and girls"@en ;
+        skos:altLabel      "Lograr la igualdad de género y empoderar a todas las mujeres y las niñas"@es , "Parvenir à l’égalité des sexes et autonomiser toutes les femmes et les filles"@fr , "Achieve gender equality and empower all women and girls"@en , "Geschlechtergleichstellung erreichen und alle Frauen und Mädchen zur Selbstbestimmung befähigen"@de ;
         skos:exactMatch    <http://purl.unep.org/sdg/SDGIO_00000039> , <http://www.wikidata.org/entity/Q53581210> ;
         skos:inScheme      <> ;
-        skos:narrower      <5.a> , <5.5> , <5.2> , <5.c> , <5.4> , <5.6> , <5.b> , <5.3> , <5.1> ;
+        skos:narrower      <5.a> , <5.5> , <5.c> , <5.2> , <5.4> , <5.6> , <5.b> , <5.3> , <5.1> ;
         skos:notation      "5" , "05" ;
         skos:note          "Objectif 5"@fr , "Goal 5"@en , "Objetivo 5"@es ;
-        skos:prefLabel     "Gender equality"@en , "Geschlechtergleichstellung erreichen und alle Frauen und Mädchen zur Selbstbestimmung befähigen"@de ;
+        skos:prefLabel     "Geschlechtergleichstellung"@de , "Gender equality"@en ;
         skos:topConceptOf  <> .
 
 <11>    a                  sdgo:Goal , skos:Concept ;
         dct:subject        <http://eurovoc.europa.eu/4809> , <http://metadata.un.org/thesaurus/1002986> , <http://metadata.un.org/thesaurus/1000995> ;
-        skos:altLabel      "Faire en sorte que les villes et les établissements humains soient ouverts à tous, sûrs, résilients et durables"@fr , "Nachhaltige Städte und Gemeinden"@de , "Make cities and human settlements inclusive, safe, resilient and sustainable"@en , "Lograr que las ciudades y los asentamientos humanos sean inclusivos, seguros, resilientes y sostenibles"@es ;
+        skos:altLabel      "Faire en sorte que les villes et les établissements humains soient ouverts à tous, sûrs, résilients et durables"@fr , "Städte und Siedlungen inklusiv, sicher, widerstandsfähig und nachhaltig gestalten"@de , "Make cities and human settlements inclusive, safe, resilient and sustainable"@en , "Lograr que las ciudades y los asentamientos humanos sean inclusivos, seguros, resilientes y sostenibles"@es ;
         skos:exactMatch    <http://purl.unep.org/sdg/SDGIO_00000045> , <http://www.wikidata.org/entity/Q53581228> ;
         skos:inScheme      <> ;
         skos:narrower      <11.c> , <11.4> , <11.3> , <11.2> , <11.1> , <11.b> , <11.7> , <11.a> , <11.6> , <11.5> ;
         skos:notation      "11" ;
         skos:note          "Objetivo 11"@es , "Goal 11"@en , "Objectif 11"@fr ;
-        skos:prefLabel     "Städte und Siedlungen inklusiv, sicher, widerstandsfähig und nachhaltig gestalten"@de , "Sustainable cities and communities"@en ;
+        skos:prefLabel     "Sustainable cities and communities"@en , "Nachhaltige Städte und Gemeinden"@de ;
         skos:topConceptOf  <> .
 
 <7.2>   a                skos:Concept ;
@@ -610,24 +610,24 @@
 
 <8>     a                  sdgo:Goal , skos:Concept ;
         dct:subject        <http://eurovoc.europa.eu/2427> , <http://metadata.un.org/thesaurus/1002563> , <http://eurovoc.europa.eu/310> , <http://metadata.un.org/thesaurus/1006773> , <http://eurovoc.europa.eu/5974> , <http://metadata.un.org/thesaurus/1001854> , <http://metadata.un.org/thesaurus/1002007> ;
-        skos:altLabel      "Promouvoir une croissance économique soutenue, partagée et durable, le plein emploi productif et un travail décent pour tous"@fr , "Menschenwürdige Arbeit und Wirtschaftswachstum"@de , "Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos"@es , "Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all"@en ;
+        skos:altLabel      "Dauerhaftes, breitenwirksames und nachhaltiges Wirtschaftswachstum, produktive Vollbeschäftigung und menschenwürdige Arbeit für alle fördern"@de , "Promouvoir une croissance économique soutenue, partagée et durable, le plein emploi productif et un travail décent pour tous"@fr , "Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos"@es , "Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all"@en ;
         skos:exactMatch    <http://www.wikidata.org/entity/Q53581217> , <http://purl.unep.org/sdg/SDGIO_00000042> ;
         skos:inScheme      <> ;
         skos:narrower      <8.8> , <8.a> , <8.10> , <8.5> , <8.7> , <8.2> , <8.4> , <8.9> , <8.1> , <8.b> , <8.6> , <8.3> ;
         skos:notation      "08" , "8" ;
         skos:note          "Goal 8"@en , "Objectif 8"@fr , "Objetivo 8"@es ;
-        skos:prefLabel     "Decent work and economic growth"@en , "Dauerhaftes, breitenwirksames und nachhaltiges Wirtschaftswachstum, produktive Vollbeschäftigung und menschenwürdige Arbeit für alle fördern"@de ;
+        skos:prefLabel     "Menschenwürdige Arbeit und Wirtschaftswachstum"@de , "Decent work and economic growth"@en ;
         skos:topConceptOf  <> .
 
 <14>    a                  sdgo:Goal , skos:Concept ;
         dct:subject        <http://eurovoc.europa.eu/5742> , <http://eurovoc.europa.eu/2107> , <http://metadata.un.org/thesaurus/030800> , <http://eurovoc.europa.eu/3149> , <http://metadata.un.org/thesaurus/170600> , <http://eurovoc.europa.eu/1870> , <http://metadata.un.org/thesaurus/1003922> ;
-        skos:altLabel      "Conserver et exploiter de manière durable les océans, les mers et les ressources marines aux fins du développement durable"@fr , "Conservar y utilizar sosteniblemente los océanos, los mares y los recursos marinos para el desarrollo sostenible"@es , "Leben unter Wasser"@de , "Conserve and sustainably use the oceans, seas and marine resources for sustainable development"@en ;
+        skos:altLabel      "Ozeane, Meere und Meeresressourcen im Sinne nachhaltiger Entwicklung erhalten und nachhaltig nutzen"@de , "Conserver et exploiter de manière durable les océans, les mers et les ressources marines aux fins du développement durable"@fr , "Conservar y utilizar sosteniblemente los océanos, los mares y los recursos marinos para el desarrollo sostenible"@es , "Conserve and sustainably use the oceans, seas and marine resources for sustainable development"@en ;
         skos:exactMatch    <http://purl.unep.org/sdg/SDGIO_00000048> , <http://www.wikidata.org/entity/Q53581239> ;
         skos:inScheme      <> ;
         skos:narrower      <14.2> , <14.c> , <14.6> , <14.4> , <14.3> , <14.7> , <14.a> , <14.1> , <14.5> , <14.b> ;
         skos:notation      "14" ;
         skos:note          "Goal 14"@en , "Objetivo 14"@es , "Objectif 14"@fr ;
-        skos:prefLabel     "Life below water"@en , "Ozeane, Meere und Meeresressourcen im Sinne nachhaltiger Entwicklung erhalten und nachhaltig nutzen"@de ;
+        skos:prefLabel     "Leben unter Wasser"@de , "Life below water"@en ;
         skos:topConceptOf  <> .
 
 <16.3>  a                skos:Concept ;
@@ -741,13 +741,13 @@
 
 <3>     a                  skos:Concept , sdgo:Goal ;
         dct:subject        <http://metadata.un.org/thesaurus/1002824> , <http://eurovoc.europa.eu/3885> ;
-        skos:altLabel      "Garantizar una vida sana y promover el bienestar de todos a todas las edades"@es , "Ensure healthy lives and promote well-being for all at all ages"@en , "Permettre à tous de vivre en bonne santé et promouvoir le bien-être de tous à tout âge"@fr , "Gesundheit und Wohlergehen"@de ;
+        skos:altLabel      "Ein gesundes Leben für alle Menschen jeden Alters gewährleisten und ihr Wohlergehen fördern"@de , "Garantizar una vida sana y promover el bienestar de todos a todas las edades"@es , "Ensure healthy lives and promote well-being for all at all ages"@en , "Permettre à tous de vivre en bonne santé et promouvoir le bien-être de tous à tout âge"@fr ;
         skos:exactMatch    <http://www.wikidata.org/entity/Q50216838> , <http://purl.unep.org/sdg/SDGIO_00000037> ;
         skos:inScheme      <> ;
         skos:narrower      <3.c> , <3.3> , <3.6> , <3.a> , <3.d> , <3.8> , <3.4> , <3.1> , <3.7> , <3.b> , <3.9> , <3.2> , <3.5> ;
         skos:notation      "03" , "3" ;
         skos:note          "Objetivo 3"@es , "Goal 3"@en , "Objectif 3"@fr ;
-        skos:prefLabel     "Good health and well-being"@en , "Ein gesundes Leben für alle Menschen jeden Alters gewährleisten und ihr Wohlergehen fördern"@de ;
+        skos:prefLabel     "Good health and well-being"@en , "Gesundheit und Wohlergehen"@de ;
         skos:topConceptOf  <> .
 
 <16.10>  a              skos:Concept ;
@@ -836,13 +836,13 @@
 
 <17>    a                  skos:Concept , sdgo:Goal ;
         dct:subject        <http://eurovoc.europa.eu/5585> , <http://metadata.un.org/thesaurus/1006319> , <http://metadata.un.org/thesaurus/1004748> , <http://eurovoc.europa.eu/4199> ;
-        skos:altLabel      "Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development"@en , "Fortalecer los medios de implementación y revitalizar la Alianza Mundial para el Desarrollo Sostenible"@es , "Partnerschaften zur Erreichung der Ziele"@de , "Renforcer les moyens de mettre en œuvre le Partenariat mondial pour le développement durable et le revitaliser"@fr ;
+        skos:altLabel      "Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development"@en , "Fortalecer los medios de implementación y revitalizar la Alianza Mundial para el Desarrollo Sostenible"@es , "Umsetzungsmittel stärken und die Globale Partnerschaft für nachhaltige Entwicklung mit neuem Leben erfüllen"@de , "Renforcer les moyens de mettre en œuvre le Partenariat mondial pour le développement durable et le revitaliser"@fr ;
         skos:exactMatch    <http://purl.unep.org/sdg/SDGIO_00000051> , <http://www.wikidata.org/entity/Q53581254> ;
         skos:inScheme      <> ;
         skos:narrower      <17.5> , <17.12> , <17.17> , <17.3> , <17.15> , <17.14> , <17.7> , <17.19> , <17.2> , <17.11> , <17.6> , <17.10> , <17.4> , <17.16> , <17.8> , <17.9> , <17.18> , <17.13> , <17.1> ;
         skos:notation      "17" ;
         skos:note          "Objectif 17"@fr , "Goal 17"@en , "Objetivo 17"@es ;
-        skos:prefLabel     "Partnerships for the goals"@en , "Umsetzungsmittel stärken und die Globale Partnerschaft für nachhaltige Entwicklung mit neuem Leben erfüllen"@de ;
+        skos:prefLabel     "Partnerships for the goals"@en , "Partnerschaften zur Erreichung der Ziele"@de ;
         skos:topConceptOf  <> .
 
 <7.b>   a                skos:Concept ;
@@ -998,24 +998,24 @@
 
 <6>     a                  sdgo:Goal , skos:Concept ;
         dct:subject        <http://eurovoc.europa.eu/597> , <http://eurovoc.europa.eu/4628> , <http://metadata.un.org/thesaurus/1006948> , <http://metadata.un.org/thesaurus/030500> , <http://eurovoc.europa.eu/3371> , <http://metadata.un.org/thesaurus/1005701> ;
-        skos:altLabel      "Garantir l’accès de tous à des services d’alimentation en eau et d’assainissement gérés de façon durable"@fr , "Sauberes Wasser und Sanitärversorgung"@de , "Garantizar la disponibilidad y la gestión sostenible del agua y el saneamiento para todos"@es , "Ensure availability and sustainable management of water and sanitation for all"@en ;
+        skos:altLabel      "Garantir l’accès de tous à des services d’alimentation en eau et d’assainissement gérés de façon durable"@fr , "Garantizar la disponibilidad y la gestión sostenible del agua y el saneamiento para todos"@es , "Ensure availability and sustainable management of water and sanitation for all"@en , "Verfügbarkeit und nachhaltige Bewirtschaftung von Wasser und Sanitärversorgung für alle gewährleisten"@de ;
         skos:exactMatch    <http://purl.unep.org/sdg/SDGIO_00000040> , <http://www.wikidata.org/entity/Q48741129> ;
         skos:inScheme      <> ;
         skos:narrower      <6.2> , <6.b> , <6.1> , <6.4> , <6.a> , <6.6> , <6.3> , <6.5> ;
         skos:notation      "6" , "06" ;
         skos:note          "Objetivo 6"@es , "Objectif 6"@fr , "Goal 6"@en ;
-        skos:prefLabel     "Clean water and sanitation"@en , "Verfügbarkeit und nachhaltige Bewirtschaftung von Wasser und Sanitärversorgung für alle gewährleisten"@de ;
+        skos:prefLabel     "Sauberes Wasser und Sanitärversorgung"@de , "Clean water and sanitation"@en ;
         skos:topConceptOf  <> .
 
 <12>    a                  skos:Concept , sdgo:Goal ;
         dct:subject        <http://metadata.un.org/thesaurus/1005146> , <http://eurovoc.europa.eu/139> , <http://eurovoc.europa.eu/2707> , <http://metadata.un.org/thesaurus/1001264> , <http://metadata.un.org/thesaurus/1006318> ;
-        skos:altLabel      "Garantizar modalidades de consumo y producción sostenibles"@es , "Établir des modes de consommation et de production durables"@fr , "Ensure sustainable consumption and production patterns"@en , "Verantwortungsvolle Konsum- und Produktionsmuster"@de ;
+        skos:altLabel      "Garantizar modalidades de consumo y producción sostenibles"@es , "Établir des modes de consommation et de production durables"@fr , "Ensure sustainable consumption and production patterns"@en , "Nachhaltige Konsum- und Produktionsmuster sicherstellen"@de ;
         skos:exactMatch    <http://www.wikidata.org/entity/Q53581232> , <http://purl.unep.org/sdg/SDGIO_00000046> ;
         skos:inScheme      <> ;
         skos:narrower      <12.7> , <12.a> , <12.4> , <12.2> , <12.5> , <12.1> , <12.8> , <12.b> , <12.6> , <12.3> , <12.c> ;
         skos:notation      "12" ;
         skos:note          "Objetivo 12"@es , "Objectif 12"@fr , "Goal 12"@en ;
-        skos:prefLabel     "Responsible consumption and production"@en , "Nachhaltige Konsum- und Produktionsmuster sicherstellen"@de ;
+        skos:prefLabel     "Verantwortungsvolle Konsum- und Produktionsmuster"@de , "Responsible consumption and production"@en ;
         skos:topConceptOf  <> .
 
 <7.3>   a                skos:Concept ;
@@ -1155,13 +1155,13 @@
 
 <1>     a                  skos:Concept , sdgo:Goal ;
         dct:subject        <http://metadata.un.org/thesaurus/1005065> , <http://metadata.un.org/thesaurus/1005064> , <http://eurovoc.europa.eu/2281> ;
-        skos:altLabel      "Éliminer la pauvreté sous toutes ses formes et partout dans le monde"@fr , "End poverty in all its forms everywhere"@en , "Poner fin a la pobreza en todas sus formas y en todo el mundo"@es , "Keine Armut"@de ;
+        skos:altLabel      "Éliminer la pauvreté sous toutes ses formes et partout dans le monde"@fr , "End poverty in all its forms everywhere"@en , "Poner fin a la pobreza en todas sus formas y en todo el mundo"@es , "Armut in allen ihren Formen und überall beenden"@de ;
         skos:exactMatch    <http://purl.unep.org/sdg/SDGIO_00000035> , <http://www.wikidata.org/entity/Q50214636> ;
         skos:inScheme      <> ;
         skos:narrower      <1.5> , <1.1> , <1.3> , <1.4> , <1.a> , <1.2> , <1.b> ;
         skos:notation      "01" , "1" ;
         skos:note          "Objectif 1"@fr , "Objetivo 1"@es , "Goal 1"@en ;
-        skos:prefLabel     "No poverty"@en , "Armut in allen ihren Formen und überall beenden"@de ;
+        skos:prefLabel     "Keine Armut"@de , "No poverty"@en ;
         skos:topConceptOf  <> .
 
 <14.4>  a                skos:Concept ;
@@ -1209,13 +1209,13 @@
 
 <9>     a                  skos:Concept , sdgo:Goal ;
         dct:subject        <http://metadata.un.org/thesaurus/1003177> , <http://eurovoc.europa.eu/1439> , <http://metadata.un.org/thesaurus/1003223> , <http://eurovoc.europa.eu/1434> ;
-        skos:altLabel      "Bâtir une infrastructure résiliente, promouvoir une industrialisation durable qui profite à tous et encourager l’innovation"@fr , "Construir infraestructuras resilientes, promover la industrialización inclusiva y sostenible y fomentar la innovación"@es , "Industrie, Innovationen und Infrastruktur"@de , "Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation"@en ;
+        skos:altLabel      "Bâtir une infrastructure résiliente, promouvoir une industrialisation durable qui profite à tous et encourager l’innovation"@fr , "Eine widerstandsfähige Infrastruktur aufbauen, breitenwirksame und nachhaltige Industrialisierung fördern und Innovationen unterstützen"@de , "Construir infraestructuras resilientes, promover la industrialización inclusiva y sostenible y fomentar la innovación"@es , "Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation"@en ;
         skos:exactMatch    <http://purl.unep.org/sdg/SDGIO_00000043> , <http://www.wikidata.org/entity/Q53581219> ;
         skos:inScheme      <> ;
         skos:narrower      <9.2> , <9.3> , <9.b> , <9.c> , <9.4> , <9.5> , <9.1> , <9.a> ;
         skos:notation      "9" , "09" ;
         skos:note          "Objetivo 9"@es , "Goal 9"@en , "Objectif 9"@fr ;
-        skos:prefLabel     "Industry, innovation and infrastructure"@en , "Eine widerstandsfähige Infrastruktur aufbauen, breitenwirksame und nachhaltige Industrialisierung fördern und Innovationen unterstützen"@de ;
+        skos:prefLabel     "Industrie, Innovationen und Infrastruktur"@de , "Industry, innovation and infrastructure"@en ;
         skos:topConceptOf  <> .
 
 <2.1>   a                skos:Concept ;
@@ -1228,13 +1228,13 @@
 
 <15>    a                  sdgo:Goal , skos:Concept ;
         dct:subject        <http://eurovoc.europa.eu/416> , <http://metadata.un.org/thesaurus/030600> , <http://eurovoc.europa.eu/5463> , <http://metadata.un.org/thesaurus/1001550> , <http://eurovoc.europa.eu/339> ;
-        skos:altLabel      "Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss"@en , "Proteger, restablecer y promover el uso sostenible de los ecosistemas terrestres, gestionar sosteniblemente los bosques, luchar contra la desertificación, detener e invertir la degradación de las tierras y detener la pérdida de biodiversidad"@es , "Préserver et restaurer les écosystèmes terrestres, en veillant à les exploiter de façon durable, gérer durablement les forêts, lutter contre la désertification, enrayer et inverser le processus de dégradation des terres et mettre fin à l’appauvrissement de la biodiversité"@fr , "Leben an Land"@de ;
+        skos:altLabel      "Landökosysteme schützen, wiederherstellen und ihre nachhaltige Nutzung fördern, Wälder nachhaltig bewirtschaften, Wüstenbildung bekämpfen, Bodendegradation beenden und umkehren und"@de , "Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss"@en , "Proteger, restablecer y promover el uso sostenible de los ecosistemas terrestres, gestionar sosteniblemente los bosques, luchar contra la desertificación, detener e invertir la degradación de las tierras y detener la pérdida de biodiversidad"@es , "Préserver et restaurer les écosystèmes terrestres, en veillant à les exploiter de façon durable, gérer durablement les forêts, lutter contre la désertification, enrayer et inverser le processus de dégradation des terres et mettre fin à l’appauvrissement de la biodiversité"@fr ;
         skos:exactMatch    <http://purl.unep.org/sdg/SDGIO_00000049> , <http://www.wikidata.org/entity/Q53581245> ;
         skos:inScheme      <> ;
         skos:narrower      <15.3> , <15.2> , <15.4> , <15.1> , <15.5> , <15.7> , <15.6> , <15.8> , <15.a> , <15.9> , <15.c> , <15.b> ;
         skos:notation      "15" ;
         skos:note          "Goal 15"@en , "Objectif 15"@fr , "Objetivo 15"@es ;
-        skos:prefLabel     "Life on land"@en , "Landökosysteme schützen, wiederherstellen und ihre nachhaltige Nutzung fördern, Wälder nachhaltig bewirtschaften, Wüstenbildung bekämpfen, Bodendegradation beenden und umkehren und"@de ;
+        skos:prefLabel     "Life on land"@en , "Leben an Land"@de ;
         skos:topConceptOf  <> .
 
 <16.4>  a                skos:Concept ;
@@ -1400,24 +1400,24 @@
 
 <4>     a                  skos:Concept , sdgo:Goal ;
         dct:subject        <http://metadata.un.org/thesaurus/1001893> , <http://eurovoc.europa.eu/668> , <http://eurovoc.europa.eu/512> ;
-        skos:altLabel      "Hochwertige Bildung"@de , "Garantizar una educación inclusiva y equitativa de calidad y promover oportunidades de aprendizaje permanente para todos"@es , "Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all"@en , "Assurer à tous une éducation équitable, inclusive et de qualité et des possibilités d’apprentissage    tout au long de la vie"@fr ;
+        skos:altLabel      "Inklusive, gleichberechtigte und hochwertige Bildung gewährleisten und Möglichkeiten lebenslangen Lernens für alle fördern"@de , "Garantizar una educación inclusiva y equitativa de calidad y promover oportunidades de aprendizaje permanente para todos"@es , "Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all"@en , "Assurer à tous une éducation équitable, inclusive et de qualité et des possibilités d’apprentissage    tout au long de la vie"@fr ;
         skos:exactMatch    <http://purl.unep.org/sdg/SDGIO_00000038> , <http://www.wikidata.org/entity/Q53581209> ;
         skos:inScheme      <> ;
         skos:narrower      <4.3> , <4.6> , <4.c> , <4.1> , <4.4> , <4.a> , <4.7> , <4.5> , <4.2> , <4.b> ;
         skos:notation      "4" , "04" ;
         skos:note          "Objectif 4"@fr , "Objetivo 4"@es , "Goal 4"@en ;
-        skos:prefLabel     "Quality education"@en , "Inklusive, gleichberechtigte und hochwertige Bildung gewährleisten und Möglichkeiten lebenslangen Lernens für alle fördern"@de ;
+        skos:prefLabel     "Quality education"@en , "Hochwertige Bildung"@de ;
         skos:topConceptOf  <> .
 
 <10>    a                  skos:Concept , sdgo:Goal ;
         dct:subject        <http://metadata.un.org/thesaurus/1002102> , <http://eurovoc.europa.eu/1420> ;
-        skos:altLabel      "Weniger Ungleichheiten"@de , "Reduce inequality within and among countries"@en , "Reducir la desigualdad en los países y entre ellos"@es , "Réduire les inégalités dans les pays et d’un pays à l’autre"@fr ;
+        skos:altLabel      "Reduce inequality within and among countries"@en , "Reducir la desigualdad en los países y entre ellos"@es , "Réduire les inégalités dans les pays et d’un pays à l’autre"@fr , "Ungleichheit in und zwischen Ländern verringern"@de ;
         skos:exactMatch    <http://purl.unep.org/sdg/SDGIO_00000044> , <http://www.wikidata.org/entity/Q53581222> ;
         skos:inScheme      <> ;
         skos:narrower      <10.b> , <10.7> , <10.6> , <10.a> , <10.3> , <10.5> , <10.4> , <10.2> , <10.1> , <10.c> ;
         skos:notation      "10" ;
         skos:note          "Objetivo 10"@es , "Goal 10"@en , "Objectif 10"@fr ;
-        skos:prefLabel     "Reduced inequalities"@en , "Ungleichheit in und zwischen Ländern verringern"@de ;
+        skos:prefLabel     "Reduced inequalities"@en , "Weniger Ungleichheiten"@de ;
         skos:topConceptOf  <> .
 
 <7.1>   a                skos:Concept ;
