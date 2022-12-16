@@ -2,12 +2,12 @@
   "id": "http://metadata.un.org/sdg/2",
   "type": "Concept",
   "prefLabel": {
-    "de": "Den Hunger beenden, Ernährungssicherheit und eine bessere Ernährung erreichen und eine nachhaltige Landwirtschaft fördern",
+    "de": "Kein Hunger",
     "en": "Zero hunger"
   },
   "altLabel": {
     "de": [
-      "Kein Hunger"
+      "Den Hunger beenden, Ernährungssicherheit und eine bessere Ernährung erreichen und eine nachhaltige Landwirtschaft fördern"
     ],
     "en": [
       "End hunger, achieve food security and improved nutrition and promote sustainable agriculture"

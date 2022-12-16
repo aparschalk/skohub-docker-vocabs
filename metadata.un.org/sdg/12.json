@@ -2,12 +2,12 @@
   "id": "http://metadata.un.org/sdg/12",
   "type": "Concept",
   "prefLabel": {
-    "de": "Nachhaltige Konsum- und Produktionsmuster sicherstellen",
+    "de": "Verantwortungsvolle Konsum- und Produktionsmuster",
     "en": "Responsible consumption and production"
   },
   "altLabel": {
     "de": [
-      "Verantwortungsvolle Konsum- und Produktionsmuster"
+      "Nachhaltige Konsum- und Produktionsmuster sicherstellen"
     ],
     "en": [
       "Ensure sustainable consumption and production patterns"

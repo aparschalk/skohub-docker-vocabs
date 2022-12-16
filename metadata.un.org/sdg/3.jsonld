@@ -2,12 +2,12 @@
   "id": "http://metadata.un.org/sdg/3",
   "type": "Concept",
   "prefLabel": {
-    "de": "Ein gesundes Leben für alle Menschen jeden Alters gewährleisten und ihr Wohlergehen fördern",
+    "de": "Gesundheit und Wohlergehen",
     "en": "Good health and well-being"
   },
   "altLabel": {
     "de": [
-      "Gesundheit und Wohlergehen"
+      "Ein gesundes Leben für alle Menschen jeden Alters gewährleisten und ihr Wohlergehen fördern"
     ],
     "en": [
       "Ensure healthy lives and promote well-being for all at all ages"

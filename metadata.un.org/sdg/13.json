@@ -2,12 +2,12 @@
   "id": "http://metadata.un.org/sdg/13",
   "type": "Concept",
   "prefLabel": {
-    "de": "Umgehend Maßnahmen zur Bekämpfung des Klimawandels und seiner Auswirkungen ergreifen",
+    "de": "Maßnahmen zum Klimaschutz",
     "en": "Climate action"
   },
   "altLabel": {
     "de": [
-      "Maßnahmen zum Klimaschutz"
+      "Umgehend Maßnahmen zur Bekämpfung des Klimawandels und seiner Auswirkungen ergreifen"
     ],
     "en": [
       "Take urgent action to combat climate change and its impacts"

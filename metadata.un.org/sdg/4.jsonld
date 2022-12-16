@@ -2,12 +2,12 @@
   "id": "http://metadata.un.org/sdg/4",
   "type": "Concept",
   "prefLabel": {
-    "de": "Inklusive, gleichberechtigte und hochwertige Bildung gewährleisten und Möglichkeiten lebenslangen Lernens für alle fördern",
+    "de": "Hochwertige Bildung",
     "en": "Quality education"
   },
   "altLabel": {
     "de": [
-      "Hochwertige Bildung"
+      "Inklusive, gleichberechtigte und hochwertige Bildung gewährleisten und Möglichkeiten lebenslangen Lernens für alle fördern"
     ],
     "en": [
       "Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all"

@@ -2,12 +2,12 @@
   "id": "http://metadata.un.org/sdg/8",
   "type": "Concept",
   "prefLabel": {
-    "de": "Dauerhaftes, breitenwirksames und nachhaltiges Wirtschaftswachstum, produktive Vollbeschäftigung und menschenwürdige Arbeit für alle fördern",
+    "de": "Menschenwürdige Arbeit und Wirtschaftswachstum",
     "en": "Decent work and economic growth"
   },
   "altLabel": {
     "de": [
-      "Menschenwürdige Arbeit und Wirtschaftswachstum"
+      "Dauerhaftes, breitenwirksames und nachhaltiges Wirtschaftswachstum, produktive Vollbeschäftigung und menschenwürdige Arbeit für alle fördern"
     ],
     "en": [
       "Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all"

@@ -2,12 +2,12 @@
   "id": "http://metadata.un.org/sdg/7",
   "type": "Concept",
   "prefLabel": {
-    "de": "Zugang zu bezahlbarer, verlässlicher, nachhaltiger und moderner Energie für alle sichern",
+    "de": "Bezahlbare und saubere Energie",
     "en": "Affordable and clean energy"
   },
   "altLabel": {
     "de": [
-      "Bezahlbare und saubere Energie"
+      "Zugang zu bezahlbarer, verlässlicher, nachhaltiger und moderner Energie für alle sichern"
     ],
     "en": [
       "Ensure access to affordable, reliable, sustainable and modern energy for all"

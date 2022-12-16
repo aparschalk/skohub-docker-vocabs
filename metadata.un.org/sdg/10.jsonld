@@ -2,12 +2,12 @@
   "id": "http://metadata.un.org/sdg/10",
   "type": "Concept",
   "prefLabel": {
-    "de": "Ungleichheit in und zwischen Ländern verringern",
+    "de": "Weniger Ungleichheiten",
     "en": "Reduced inequalities"
   },
   "altLabel": {
     "de": [
-      "Weniger Ungleichheiten"
+      "Ungleichheit in und zwischen Ländern verringern"
     ],
     "en": [
       "Reduce inequality within and among countries"

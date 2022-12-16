@@ -2,12 +2,12 @@
   "id": "http://metadata.un.org/sdg/9",
   "type": "Concept",
   "prefLabel": {
-    "de": "Eine widerstandsfähige Infrastruktur aufbauen, breitenwirksame und nachhaltige Industrialisierung fördern und Innovationen unterstützen",
+    "de": "Industrie, Innovationen und Infrastruktur",
     "en": "Industry, innovation and infrastructure"
   },
   "altLabel": {
     "de": [
-      "Industrie, Innovationen und Infrastruktur"
+      "Eine widerstandsfähige Infrastruktur aufbauen, breitenwirksame und nachhaltige Industrialisierung fördern und Innovationen unterstützen"
     ],
     "en": [
       "Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation"

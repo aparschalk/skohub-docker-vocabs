@@ -2,12 +2,12 @@
   "id": "http://metadata.un.org/sdg/1",
   "type": "Concept",
   "prefLabel": {
-    "de": "Armut in allen ihren Formen und überall beenden",
+    "de": "Keine Armut",
     "en": "No poverty"
   },
   "altLabel": {
     "de": [
-      "Keine Armut"
+      "Armut in allen ihren Formen und überall beenden"
     ],
     "en": [
       "End poverty in all its forms everywhere"

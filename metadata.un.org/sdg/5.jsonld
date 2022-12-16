@@ -2,12 +2,12 @@
   "id": "http://metadata.un.org/sdg/5",
   "type": "Concept",
   "prefLabel": {
-    "de": "Geschlechtergleichstellung erreichen und alle Frauen und Mädchen zur Selbstbestimmung befähigen",
+    "de": "Geschlechtergleichstellung",
     "en": "Gender equality"
   },
   "altLabel": {
     "de": [
-      "Geschlechtergleichstellung"
+      "Geschlechtergleichstellung erreichen und alle Frauen und Mädchen zur Selbstbestimmung befähigen"
     ],
     "en": [
       "Achieve gender equality and empower all women and girls"

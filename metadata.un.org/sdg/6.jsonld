@@ -2,12 +2,12 @@
   "id": "http://metadata.un.org/sdg/6",
   "type": "Concept",
   "prefLabel": {
-    "de": "Verfügbarkeit und nachhaltige Bewirtschaftung von Wasser und Sanitärversorgung für alle gewährleisten",
+    "de": "Sauberes Wasser und Sanitärversorgung",
     "en": "Clean water and sanitation"
   },
   "altLabel": {
     "de": [
-      "Sauberes Wasser und Sanitärversorgung"
+      "Verfügbarkeit und nachhaltige Bewirtschaftung von Wasser und Sanitärversorgung für alle gewährleisten"
     ],
     "en": [
       "Ensure availability and sustainable management of water and sanitation for all"
