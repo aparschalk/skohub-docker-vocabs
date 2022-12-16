@@ -1,0 +1,535 @@
+{
+  "id": "https://w3id.org/oerbase/vocabs/oefos2012/1060",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Biologie",
+    "en": "Biology"
+  },
+  "narrower": [
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/106001",
+      "prefLabel": {
+        "de": "Allgemeine Biologie",
+        "en": "General biology"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/106002",
+      "prefLabel": {
+        "de": "Biochemie",
+        "en": "Biochemistry"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/106003",
+      "prefLabel": {
+        "de": "Biodiversitätsforschung",
+        "en": "Biodiversity research"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/106004",
+      "prefLabel": {
+        "de": "Bioethik",
+        "en": "Bioethics"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/106005",
+      "prefLabel": {
+        "de": "Bioinformatik",
+        "en": "Bioinformatics"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/106006",
+      "prefLabel": {
+        "de": "Biophysik",
+        "en": "Biophysics"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/106007",
+      "prefLabel": {
+        "de": "Biostatistik",
+        "en": "Biostatistics"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/106008",
+      "prefLabel": {
+        "de": "Botanik",
+        "en": "Botany"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/106009",
+      "prefLabel": {
+        "de": "Chronobiologie",
+        "en": "Chronobiology"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/106010",
+      "prefLabel": {
+        "de": "Entwicklungsbiologie",
+        "en": "Developmental biology"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/106011",
+      "prefLabel": {
+        "de": "3R (Replacement, Reduction, Refinement von Tierversuchen)",
+        "en": "3Rs (replacement, reduction, refinement of animal testing)"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/106012",
+      "prefLabel": {
+        "de": "Evolutionsforschung",
+        "en": "Evolutionary research"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/106013",
+      "prefLabel": {
+        "de": "Genetik",
+        "en": "Genetics"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/106014",
+      "prefLabel": {
+        "de": "Genomik",
+        "en": "Genomics"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/106015",
+      "prefLabel": {
+        "de": "Geobotanik",
+        "en": "Geobotany"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/106016",
+      "prefLabel": {
+        "de": "Geschichte der Biologie",
+        "en": "History of biology"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/106017",
+      "prefLabel": {
+        "de": "Glykobiologie",
+        "en": "Glycobiology"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/106018",
+      "prefLabel": {
+        "de": "Humanbiologie",
+        "en": "Human biology"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/106019",
+      "prefLabel": {
+        "de": "Hydrobiologie",
+        "en": "Hydrobiology"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/106020",
+      "prefLabel": {
+        "de": "Limnologie",
+        "en": "Limnology"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/106021",
+      "prefLabel": {
+        "de": "Meeresbiologie",
+        "en": "Marine biology"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/106022",
+      "prefLabel": {
+        "de": "Mikrobiologie",
+        "en": "Microbiology"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/106023",
+      "prefLabel": {
+        "de": "Molekularbiologie",
+        "en": "Molecular biology"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/106024",
+      "prefLabel": {
+        "de": "Mykologie",
+        "en": "Mycology"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/106025",
+      "prefLabel": {
+        "de": "Neurobiologie",
+        "en": "Neurobiology"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/106026",
+      "prefLabel": {
+        "de": "Ökosystemforschung",
+        "en": "Ecosystem research"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/106027",
+      "prefLabel": {
+        "de": "Ökotoxikologie",
+        "en": "Ecotoxicology"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/106028",
+      "prefLabel": {
+        "de": "Pflanzenanatomie",
+        "en": "Plant anatomy"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/106029",
+      "prefLabel": {
+        "de": "Pflanzenmorphologie",
+        "en": "Plant morphology"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/106030",
+      "prefLabel": {
+        "de": "Pflanzenökologie",
+        "en": "Plant ecology"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/106031",
+      "prefLabel": {
+        "de": "Pflanzenphysiologie",
+        "en": "Plant physiology"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/106032",
+      "prefLabel": {
+        "de": "Photobiologie",
+        "en": "Photobiology"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/106033",
+      "prefLabel": {
+        "de": "Phylogenie",
+        "en": "Phylogeny"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/106034",
+      "prefLabel": {
+        "de": "Phytochemie",
+        "en": "Phytochemistry"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/106035",
+      "prefLabel": {
+        "de": "Phytogeographie",
+        "en": "Phytogeography"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/106036",
+      "prefLabel": {
+        "de": "Populationsgenetik",
+        "en": "Population genetics"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/106037",
+      "prefLabel": {
+        "de": "Proteomik",
+        "en": "Proteomics"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/106038",
+      "prefLabel": {
+        "de": "Reproduktionsbiologie",
+        "en": "Reproductive biology"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/106039",
+      "prefLabel": {
+        "de": "Stammzellenforschung",
+        "en": "Stem cell research"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/106040",
+      "prefLabel": {
+        "de": "Strahlenbiologie",
+        "en": "Radiation biology"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/106041",
+      "prefLabel": {
+        "de": "Strukturbiologie",
+        "en": "Structural biology"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/106042",
+      "prefLabel": {
+        "de": "Systematische Botanik",
+        "en": "Systematic botany"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/106043",
+      "prefLabel": {
+        "de": "Systematische Zoologie",
+        "en": "Systematic zoology"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/106044",
+      "prefLabel": {
+        "de": "Systembiologie",
+        "en": "Systems biology"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/106045",
+      "prefLabel": {
+        "de": "Theoretische Biologie",
+        "en": "Theoretical biology"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/106046",
+      "prefLabel": {
+        "de": "Tieranatomie",
+        "en": "Animal anatomy"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/106047",
+      "prefLabel": {
+        "de": "Tierökologie",
+        "en": "Animal ecology"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/106048",
+      "prefLabel": {
+        "de": "Tierphysiologie",
+        "en": "Animal physiology"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/106049",
+      "prefLabel": {
+        "de": "Ultrastrukturforschung",
+        "en": "Ultrastructure research"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/106050",
+      "prefLabel": {
+        "de": "Vegetationskunde",
+        "en": "Vegetation science"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/106051",
+      "prefLabel": {
+        "de": "Verhaltensbiologie",
+        "en": "Behavioural biology"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/106052",
+      "prefLabel": {
+        "de": "Zellbiologie",
+        "en": "Cell biology"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/106053",
+      "prefLabel": {
+        "de": "Zoogeographie",
+        "en": "Zoogeography"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/106054",
+      "prefLabel": {
+        "de": "Zoologie",
+        "en": "Zoology"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/106055",
+      "prefLabel": {
+        "de": "Aerobiologie",
+        "en": "Aerobiology"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/106056",
+      "prefLabel": {
+        "de": "Biologische Anthropologie",
+        "en": "Biological anthropology"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/106057",
+      "prefLabel": {
+        "de": "Metabolomik",
+        "en": "Metabolomics"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/106058",
+      "prefLabel": {
+        "de": "Bodenbiologie",
+        "en": "Soil biology"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/106059",
+      "prefLabel": {
+        "de": "Mikrobiomforschung",
+        "en": "Microbiome research"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/106060",
+      "prefLabel": {
+        "de": "Tierethik",
+        "en": "Animal ethics"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://w3id.org/oerbase/vocabs/oefos2012/106",
+    "prefLabel": {
+      "de": "Biologie",
+      "en": "Biology"
+    }
+  },
+  "inScheme": {
+    "id": "https://w3id.org/oerbase/vocabs/oefos2012/",
+    "title": {
+      "de": "OEFOS2012 - SKOS Representation",
+      "en": "OEFOS2012 - SKOS representation"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    }
+  }
+}

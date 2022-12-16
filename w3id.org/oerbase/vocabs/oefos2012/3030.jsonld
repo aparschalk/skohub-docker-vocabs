@@ -1,0 +1,395 @@
+{
+  "id": "https://w3id.org/oerbase/vocabs/oefos2012/3030",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Gesundheitswissenschaften",
+    "en": "Health Sciences"
+  },
+  "narrower": [
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/303001",
+      "prefLabel": {
+        "de": "Arbeitsmedizin",
+        "en": "Occupational medicine"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/303002",
+      "prefLabel": {
+        "de": "Bakteriologie",
+        "en": "Bacteriology"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/303003",
+      "prefLabel": {
+        "de": "Berufskrankheiten",
+        "en": "Occupational diseases"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/303004",
+      "prefLabel": {
+        "de": "Bewegungswissenschaft",
+        "en": "Kinesiology"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/303005",
+      "prefLabel": {
+        "de": "Biomechanik des Sports",
+        "en": "Sports biomechanics"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/303006",
+      "prefLabel": {
+        "de": "Diätologie",
+        "en": "Dietetics"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/303007",
+      "prefLabel": {
+        "de": "Epidemiologie",
+        "en": "Epidemiology"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/303008",
+      "prefLabel": {
+        "de": "Ergonomie",
+        "en": "Ergonomics"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/303009",
+      "prefLabel": {
+        "de": "Ernährungswissenschaften",
+        "en": "Nutritional sciences"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/303010",
+      "prefLabel": {
+        "de": "Gesundheitsökonomie",
+        "en": "Health economics"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/303011",
+      "prefLabel": {
+        "de": "Gesundheitspolitik",
+        "en": "Health policy"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/303012",
+      "prefLabel": {
+        "de": "Gesundheitswissenschaften",
+        "en": "Health sciences"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/303013",
+      "prefLabel": {
+        "de": "Hygiene",
+        "en": "Hygiene"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/303014",
+      "prefLabel": {
+        "de": "Impfschutz",
+        "en": "Vaccine protection"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/303015",
+      "prefLabel": {
+        "de": "Krankenhaushygiene",
+        "en": "Hospital hygiene"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/303016",
+      "prefLabel": {
+        "de": "Krankenhausmanagement",
+        "en": "Hospital management"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/303017",
+      "prefLabel": {
+        "de": "Lebensmittelhygiene",
+        "en": "Food hygiene"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/303018",
+      "prefLabel": {
+        "de": "Lufthygiene",
+        "en": "Air hygiene"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/303019",
+      "prefLabel": {
+        "de": "Medizinische Ethik",
+        "en": "Medical ethics"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/303020",
+      "prefLabel": {
+        "de": "Medizinische Mikrobiologie",
+        "en": "Medical microbiology"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/303021",
+      "prefLabel": {
+        "de": "Medizinische Rehabilitation",
+        "en": "Medical rehabilitation"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/303022",
+      "prefLabel": {
+        "de": "Palliativpflege",
+        "en": "Palliative care"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/303023",
+      "prefLabel": {
+        "de": "Parasitologie",
+        "en": "Parasitology"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/303024",
+      "prefLabel": {
+        "de": "Pflegewissenschaft",
+        "en": "Nursing science"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/303025",
+      "prefLabel": {
+        "de": "Präventivmedizin",
+        "en": "Preventive medicine"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/303026",
+      "prefLabel": {
+        "de": "Public Health",
+        "en": "Public health"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/303027",
+      "prefLabel": {
+        "de": "Sozialmedizin",
+        "en": "Social medicine"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/303028",
+      "prefLabel": {
+        "de": "Sportwissenschaft",
+        "en": "Sport science"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/303029",
+      "prefLabel": {
+        "de": "Suchtforschung",
+        "en": "Addiction research"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/303030",
+      "prefLabel": {
+        "de": "Trainingswissenschaft",
+        "en": "Training science"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/303031",
+      "prefLabel": {
+        "de": "Tropenmedizin",
+        "en": "Tropical medicine"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/303032",
+      "prefLabel": {
+        "de": "Umwelthygiene",
+        "en": "Environmental hygiene"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/303033",
+      "prefLabel": {
+        "de": "Umweltmedizin",
+        "en": "Environmental medicine"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/303034",
+      "prefLabel": {
+        "de": "Virologie",
+        "en": "Virology"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/303035",
+      "prefLabel": {
+        "de": "Wasserhygiene",
+        "en": "Water hygiene"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/303036",
+      "prefLabel": {
+        "de": "Patientensicherheit",
+        "en": "Patient safety"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/303037",
+      "prefLabel": {
+        "de": "Ergotherapie",
+        "en": "Occupational therapy"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/303038",
+      "prefLabel": {
+        "de": "Physiotherapie",
+        "en": "Physiotherapy"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/303039",
+      "prefLabel": {
+        "de": "Radiologietechnologie",
+        "en": "Radiological technology"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/303040",
+      "prefLabel": {
+        "de": "Versorgungsforschung",
+        "en": "Health services research"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://w3id.org/oerbase/vocabs/oefos2012/303",
+    "prefLabel": {
+      "de": "Gesundheitswissenschaften",
+      "en": "Health Sciences"
+    }
+  },
+  "inScheme": {
+    "id": "https://w3id.org/oerbase/vocabs/oefos2012/",
+    "title": {
+      "de": "OEFOS2012 - SKOS Representation",
+      "en": "OEFOS2012 - SKOS representation"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    }
+  }
+}

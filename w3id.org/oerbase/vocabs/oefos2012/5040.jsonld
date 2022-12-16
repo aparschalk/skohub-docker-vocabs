@@ -1,0 +1,332 @@
+{
+  "id": "https://w3id.org/oerbase/vocabs/oefos2012/5040",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Soziologie",
+    "en": "Sociology"
+  },
+  "narrower": [
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/504001",
+      "prefLabel": {
+        "de": "Allgemeine Soziologie",
+        "en": "General sociology"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/504002",
+      "prefLabel": {
+        "de": "Arbeitssoziologie",
+        "en": "Sociology of work"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/504003",
+      "prefLabel": {
+        "de": "Armut und soziale Ausgrenzung",
+        "en": "Poverty and social exclusion"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/504004",
+      "prefLabel": {
+        "de": "Bevölkerungsstatistik",
+        "en": "Population statistics"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/504005",
+      "prefLabel": {
+        "de": "Bildungssoziologie",
+        "en": "Educational sociology"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/504006",
+      "prefLabel": {
+        "de": "Demographie",
+        "en": "Demography"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/504007",
+      "prefLabel": {
+        "de": "Empirische Sozialforschung",
+        "en": "Empirical social research"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/504008",
+      "prefLabel": {
+        "de": "Ethnographie",
+        "en": "Ethnography"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/504009",
+      "prefLabel": {
+        "de": "Ethnologie",
+        "en": "Ethnology"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/504010",
+      "prefLabel": {
+        "de": "Europäische Ethnologie",
+        "en": "European ethnology"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/504011",
+      "prefLabel": {
+        "de": "Familienforschung",
+        "en": "Genealogy"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/504012",
+      "prefLabel": {
+        "de": "Freizeitforschung",
+        "en": "Leisure research"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/504013",
+      "prefLabel": {
+        "de": "Gender Mainstreaming",
+        "en": "Gender mainstreaming"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/504014",
+      "prefLabel": {
+        "de": "Gender Studies",
+        "en": "Gender studies"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/504015",
+      "prefLabel": {
+        "de": "Geschichte der Soziologie",
+        "en": "History of sociology"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/504016",
+      "prefLabel": {
+        "de": "Jugendsoziologie",
+        "en": "Sociology of youth"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/504017",
+      "prefLabel": {
+        "de": "Kulturanthropologie",
+        "en": "Cultural anthropology"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/504018",
+      "prefLabel": {
+        "de": "Kultursoziologie",
+        "en": "Sociology of culture"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/504019",
+      "prefLabel": {
+        "de": "Mediensoziologie",
+        "en": "Media sociology"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/504020",
+      "prefLabel": {
+        "de": "Medizinsoziologie",
+        "en": "Medical sociology"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/504021",
+      "prefLabel": {
+        "de": "Migrationsforschung",
+        "en": "Migration research"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/504022",
+      "prefLabel": {
+        "de": "Musiksoziologie",
+        "en": "Music sociology"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/504023",
+      "prefLabel": {
+        "de": "Politische Soziologie",
+        "en": "Political sociology"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/504024",
+      "prefLabel": {
+        "de": "Rechtssoziologie",
+        "en": "Sociology of law"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/504025",
+      "prefLabel": {
+        "de": "Religionssoziologie",
+        "en": "Sociology of religion"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/504026",
+      "prefLabel": {
+        "de": "Sozialgeschichte",
+        "en": "Social history"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/504027",
+      "prefLabel": {
+        "de": "Spezielle Soziologie",
+        "en": "Special sociology"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/504028",
+      "prefLabel": {
+        "de": "Techniksoziologie",
+        "en": "Sociology of technology"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/504029",
+      "prefLabel": {
+        "de": "Umweltsoziologie",
+        "en": "Environmental sociology"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/504030",
+      "prefLabel": {
+        "de": "Wirtschaftssoziologie",
+        "en": "Economic sociology"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/504031",
+      "prefLabel": {
+        "de": "Diversitätsforschung",
+        "en": "Diversity research"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://w3id.org/oerbase/vocabs/oefos2012/504",
+    "prefLabel": {
+      "de": "Soziologie",
+      "en": "Sociology"
+    }
+  },
+  "inScheme": {
+    "id": "https://w3id.org/oerbase/vocabs/oefos2012/",
+    "title": {
+      "de": "OEFOS2012 - SKOS Representation",
+      "en": "OEFOS2012 - SKOS representation"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    }
+  }
+}

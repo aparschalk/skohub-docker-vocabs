@@ -1,0 +1,339 @@
+{
+  "id": "https://w3id.org/oerbase/vocabs/oefos2012/2011",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Bauingenieurwesen",
+    "en": "Civil Engineering"
+  },
+  "narrower": [
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/201101",
+      "prefLabel": {
+        "de": "Baubetrieb",
+        "en": "Construction operation"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/201102",
+      "prefLabel": {
+        "de": "Baudynamik",
+        "en": "Structural dynamics"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/201103",
+      "prefLabel": {
+        "de": "Bauphysik",
+        "en": "Building physics"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/201104",
+      "prefLabel": {
+        "de": "Baustatik",
+        "en": "Structural analysis"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/201105",
+      "prefLabel": {
+        "de": "Baustofflehre",
+        "en": "Construction material practice"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/201106",
+      "prefLabel": {
+        "de": "Bautechnik",
+        "en": "Structural engineering"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/201107",
+      "prefLabel": {
+        "de": "Betriebsfestigkeit",
+        "en": "Endurance strength"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/201108",
+      "prefLabel": {
+        "de": "Bruchmechanik",
+        "en": "Fracture mechanics"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/201109",
+      "prefLabel": {
+        "de": "Brückenbau",
+        "en": "Bridge construction"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/201110",
+      "prefLabel": {
+        "de": "Festigkeitslehre",
+        "en": "Strength of materials"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/201111",
+      "prefLabel": {
+        "de": "Flussbau",
+        "en": "River engineering"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/201112",
+      "prefLabel": {
+        "de": "Hochbau",
+        "en": "Building construction"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/201113",
+      "prefLabel": {
+        "de": "Holzbau",
+        "en": "Timber engineering"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/201114",
+      "prefLabel": {
+        "de": "Industriebau",
+        "en": "Industrial building"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/201115",
+      "prefLabel": {
+        "de": "Konstruktiver Wasserbau",
+        "en": "Structural hydraulic engineering"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/201116",
+      "prefLabel": {
+        "de": "Landwirtschaftliches Bauwesen",
+        "en": "Agricultural civil engineering"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/201117",
+      "prefLabel": {
+        "de": "Leichtbau",
+        "en": "Lightweight design"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/201118",
+      "prefLabel": {
+        "de": "Siedlungswasserbau",
+        "en": "Urban water supply and sanitation"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/201119",
+      "prefLabel": {
+        "de": "Stahlbau",
+        "en": "Steel construction"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/201120",
+      "prefLabel": {
+        "de": "Stahlbetonbau",
+        "en": "Reinforced concrete construction"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/201121",
+      "prefLabel": {
+        "de": "Straßenbau",
+        "en": "Road construction"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/201122",
+      "prefLabel": {
+        "de": "Technischer Hochwasserschutz",
+        "en": "Technical flood protection"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/201123",
+      "prefLabel": {
+        "de": "Tiefbau",
+        "en": "Underground engineering"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/201124",
+      "prefLabel": {
+        "de": "Tragwerkslehre",
+        "en": "Structural design"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/201125",
+      "prefLabel": {
+        "de": "Wasserbau",
+        "en": "Hydraulic engineering"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/201126",
+      "prefLabel": {
+        "de": "Wasserkraftanlagenbau",
+        "en": "Hydropower plant construction"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/201127",
+      "prefLabel": {
+        "de": "Wildbach- und Lawinenverbauung",
+        "en": "Torrent and avalanche control"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/201128",
+      "prefLabel": {
+        "de": "Nachhaltiges Bauen",
+        "en": "Sustainable building"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/201129",
+      "prefLabel": {
+        "de": "Erdbebeningenieurwesen",
+        "en": "Earthquake engineering"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/201130",
+      "prefLabel": {
+        "de": "Konstruktiver Glasbau",
+        "en": "Structural glass construction"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/201131",
+      "prefLabel": {
+        "de": "Baugeschichte",
+        "en": "Building history"
+      }
+    },
+    {
+      "id": "https://w3id.org/oerbase/vocabs/oefos2012/201132",
+      "prefLabel": {
+        "de": "Computational Engineering",
+        "en": "Computational engineering"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://w3id.org/oerbase/vocabs/oefos2012/201",
+    "prefLabel": {
+      "de": "Bauwesen",
+      "en": "Construction Engineering"
+    }
+  },
+  "inScheme": {
+    "id": "https://w3id.org/oerbase/vocabs/oefos2012/",
+    "title": {
+      "de": "OEFOS2012 - SKOS Representation",
+      "en": "OEFOS2012 - SKOS representation"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    }
+  }
+}
